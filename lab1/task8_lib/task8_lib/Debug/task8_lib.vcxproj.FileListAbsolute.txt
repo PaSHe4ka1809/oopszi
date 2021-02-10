@@ -1,0 +1,2 @@
+C:\УЧЁБА\ООПСЗИ\lab1\task8\Debug\task8_lib.pdb
+C:\УЧЁБА\ООПСЗИ\lab1\task8_lib\task8_lib\Debug\task8_lib.pdb
