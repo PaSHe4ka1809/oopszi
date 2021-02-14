@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\УЧЁБА\ООПСЗИ\lab2\task2\task2\task2.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\УЧЁБА\ООПСЗИ\lab2\task2\task2\task2.cpp(9,17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task2.vcxproj -> C:\УЧЁБА\ООПСЗИ\lab2\task2\Debug\task2.exe
