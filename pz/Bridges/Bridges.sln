@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridges.WebService", "Bridges.WebService\Bridges.WebService.csproj", "{C7982553-5FAC-4176-967E-B3A21FBF8EFD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F37D71A9-115D-4686-8FA7-585661273D16}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7982553-5FAC-4176-967E-B3A21FBF8EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7982553-5FAC-4176-967E-B3A21FBF8EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7982553-5FAC-4176-967E-B3A21FBF8EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7982553-5FAC-4176-967E-B3A21FBF8EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61AB7298-FBEF-4975-9039-4A4DB71BB7FD}
+	EndGlobalSection
+EndGlobal
