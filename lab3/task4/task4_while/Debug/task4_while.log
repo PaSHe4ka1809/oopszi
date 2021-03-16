@@ -1,0 +1,4 @@
+﻿  task4_while.cpp
+D:\study\оопсзи\lab3\task4\task4_while\task4_while.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\study\оопсзи\lab3\task4\task4_while\task4_while.cpp(20,23): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  task4_while.vcxproj -> D:\study\оопсзи\lab3\task4\Debug\task4_while.exe
