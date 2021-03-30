@@ -1,0 +1,5 @@
+﻿  main.cpp
+  rational.cpp
+D:\study\оопсзи\lab4\lab4\lab4\rational.cpp(28,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  lab4.vcxproj -> D:\study\оопсзи\lab4\lab4\Debug\lab4.exe
