@@ -1,0 +1,4 @@
+﻿  Deque_Task1.cpp
+D:\study\оопсзи\lab6\Deque_Task1\Deque.cpp(130): warning C4715: DequeTemp<int>::PopBack: значение возвращается не при всех путях выполнения
+D:\study\оопсзи\lab6\Deque_Task1\Deque.cpp(120): warning C4715: DequeTemp<int>::PopFront: значение возвращается не при всех путях выполнения
+  Deque_Task1.vcxproj -> D:\study\оопсзи\lab6\Debug\Deque_Task1.exe
