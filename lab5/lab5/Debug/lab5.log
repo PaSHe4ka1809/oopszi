@@ -1,0 +1,6 @@
+﻿  Deque.cpp
+  Main.cpp
+  Создание кода...
+D:\study\оопсзи\lab5\lab5\Deque.cpp(43): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
+D:\study\оопсзи\lab5\lab5\Deque.cpp(54): warning C4715: Deque::operator=: значение возвращается не при всех путях выполнения
+  lab5.vcxproj -> D:\study\оопсзи\lab5\Debug\lab5.exe
